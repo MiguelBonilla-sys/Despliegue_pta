@@ -41,3 +41,5 @@ tzdata==2025.2
 urllib3==2.3.0
 watchdog==6.0.0
 xgboost==3.0.0
+turtle
+tkinter
